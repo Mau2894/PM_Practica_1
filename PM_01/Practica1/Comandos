@@ -1,0 +1,43 @@
+mauricio28@mauricio28-VirtualBox:~/Desktop$ mkdir PM_01
+mauricio28@mauricio28-VirtualBox:~/Desktop$ cd PM_01
+mauricio28@mauricio28-VirtualBox:~/Desktop/PM_01$ mkdir Practica1
+mauricio28@mauricio28-VirtualBox:~/Desktop/PM_01$ mkdir Practica2
+mauricio28@mauricio28-VirtualBox:~/Desktop/PM_01$ mkdir Practica3
+mauricio28@mauricio28-VirtualBox:~/Desktop/PM_01$ cd Practica1
+mauricio28@mauricio28-VirtualBox:~/Desktop/PM_01/Practica1$ cat > ArcP1
+^C
+mauricio28@mauricio28-VirtualBox:~/Desktop/PM_01/Practica1$ mkdir Arduino
+mauricio28@mauricio28-VirtualBox:~/Desktop/PM_01/Practica1$ mkdir DIR_1A
+mauricio28@mauricio28-VirtualBox:~/Desktop/PM_01/Practica1$ mk
+mkdir             mkfs.cramfs       mkfs.vfat         mkntfs
+mkdosfs           mkfs.ext2         mkhomedir_helper  mksquashfs
+mke2fs            mkfs.ext3         mkinitramfs       mkswap
+mkfifo            mkfs.ext4         mkisofs           mktemp
+mkfontdir         mkfs.fat          mklost+found      mkzftree
+mkfontscale       mkfs.minix        mkmanifest        
+mkfs              mkfs.msdos        mk_modmap         
+mkfs.bfs          mkfs.ntfs         mknod             
+mauricio28@mauricio28-VirtualBox:~/Desktop/PM_01/Practica1$ cat > Arc1A
+^C
+mauricio28@mauricio28-VirtualBox:~/Desktop/PM_01/Practica1$ cd Arduino
+mauricio28@mauricio28-VirtualBox:~/Desktop/PM_01/Practica1/Arduino$ cd..
+cd..: command not found
+mauricio28@mauricio28-VirtualBox:~/Desktop/PM_01/Practica1/Arduino$ cd ..
+mauricio28@mauricio28-VirtualBox:~/Desktop/PM_01/Practica1$ cd DIR_1A/
+mauricio28@mauricio28-VirtualBox:~/Desktop/PM_01/Practica1/DIR_1A$ cat > Arc1A
+^C
+mauricio28@mauricio28-VirtualBox:~/Desktop/PM_01/Practica1/DIR_1A$ cd ..
+mauricio28@mauricio28-VirtualBox:~/Desktop/PM_01/Practica1$ cd ..
+mauricio28@mauricio28-VirtualBox:~/Desktop/PM_01$ cd Practica2
+mauricio28@mauricio28-VirtualBox:~/Desktop/PM_01/Practica2$ mkdir DIR_2A
+mauricio28@mauricio28-VirtualBox:~/Desktop/PM_01/Practica2$ cd DIR_2A/
+mauricio28@mauricio28-VirtualBox:~/Desktop/PM_01/Practica2/DIR_2A$ cat > Arc2A
+^C
+mauricio28@mauricio28-VirtualBox:~/Desktop/PM_01/Practica2/DIR_2A$ mkdir DIR_2AAmauricio28@mauricio28-VirtualBox:~/Desktop/PM_01/Practica2/DIR_2A$ mkdir DIR_2ABmauricio28@mauricio28-VirtualBox:~/Desktop/PM_01/Practica2/DIR_2A$ cd ..
+mauricio28@mauricio28-VirtualBox:~/Desktop/PM_01/Practica2$  cd ..
+mauricio28@mauricio28-VirtualBox:~/Desktop/PM_01$ cd Practica3
+mauricio28@mauricio28-VirtualBox:~/Desktop/PM_01/Practica3$ mkdir DIR_5A
+mauricio28@mauricio28-VirtualBox:~/Desktop/PM_01/Practica3$ cd DIR_5A/
+mauricio28@mauricio28-VirtualBox:~/Desktop/PM_01/Practica3/DIR_5A$ cat > Arc5A
+^C
+mauricio28@mauricio28-VirtualBox:~/Desktop/PM_01/Practica3/DIR_5A$ mkdir DIR_2AA
